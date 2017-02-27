@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.26127.3
+VisualStudioVersion = 15.0.26206.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Chapter 1", "Chapter 1", "{ADD1F9A5-EFB2-4CD8-99E8-C74E4AA70985}"
 EndProject
@@ -14,6 +14,8 @@ EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Lab 1-3-1", "Lab 1-3-1\Lab 1-3-1.vcxproj", "{FD52B2EC-0572-4C8D-A1CD-E367580C5FB3}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Lab 1-6-11", "Lab 1-6-11\Lab 1-6-11.vcxproj", "{CE41B9E8-A15D-469D-BAD8-954356D7473E}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Lab 1-7-1", "Lab 1-7-1\Lab 1-7-1.vcxproj", "{18A1DFB8-D0B4-402A-90C4-A097506D5D71}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +65,14 @@ Global
 		{CE41B9E8-A15D-469D-BAD8-954356D7473E}.Release|x64.Build.0 = Release|x64
 		{CE41B9E8-A15D-469D-BAD8-954356D7473E}.Release|x86.ActiveCfg = Release|Win32
 		{CE41B9E8-A15D-469D-BAD8-954356D7473E}.Release|x86.Build.0 = Release|Win32
+		{18A1DFB8-D0B4-402A-90C4-A097506D5D71}.Debug|x64.ActiveCfg = Debug|x64
+		{18A1DFB8-D0B4-402A-90C4-A097506D5D71}.Debug|x64.Build.0 = Debug|x64
+		{18A1DFB8-D0B4-402A-90C4-A097506D5D71}.Debug|x86.ActiveCfg = Debug|Win32
+		{18A1DFB8-D0B4-402A-90C4-A097506D5D71}.Debug|x86.Build.0 = Debug|Win32
+		{18A1DFB8-D0B4-402A-90C4-A097506D5D71}.Release|x64.ActiveCfg = Release|x64
+		{18A1DFB8-D0B4-402A-90C4-A097506D5D71}.Release|x64.Build.0 = Release|x64
+		{18A1DFB8-D0B4-402A-90C4-A097506D5D71}.Release|x86.ActiveCfg = Release|Win32
+		{18A1DFB8-D0B4-402A-90C4-A097506D5D71}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -73,5 +83,6 @@ Global
 		{69A642A1-042F-4026-BE1B-8D0DE8483E69} = {ADD1F9A5-EFB2-4CD8-99E8-C74E4AA70985}
 		{FD52B2EC-0572-4C8D-A1CD-E367580C5FB3} = {ADD1F9A5-EFB2-4CD8-99E8-C74E4AA70985}
 		{CE41B9E8-A15D-469D-BAD8-954356D7473E} = {ADD1F9A5-EFB2-4CD8-99E8-C74E4AA70985}
+		{18A1DFB8-D0B4-402A-90C4-A097506D5D71} = {ADD1F9A5-EFB2-4CD8-99E8-C74E4AA70985}
 	EndGlobalSection
 EndGlobal
